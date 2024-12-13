@@ -1,4 +1,4 @@
-# pisi-lightdm-greeter 
+# pisi-gnome-lightdm-greeter 
 [ENGLISH](https://github.com/ayhanyalcinsoy/pisi-lightDM-greeter/blob/master/README_EN.md)
 ## Tanım
 
