@@ -54,7 +54,7 @@ sudo make install
 ```
  `/etc/lightdm/lightdm.conf`, dosyası içinde, `SeatDefaults` bölümü altına aşağıdaki satırı ekleyin ya da başka bir değere atanmışsa güncelleyin:
 
-    greeter-session=pisi-lightdm-greeter
+    greeter-session=pisi-gnome-lightdm-greeter
 
 Eğer böyle bir dosya mevcut değilse oluşturun.	
 
